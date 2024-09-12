@@ -77,6 +77,17 @@ Start your Node.js application using NPM:
 ```bash
 npm start
 ```
+## Congratulations! Your Node.js Application is Deployed
+
+### Access Your Application
+
+#### Copy the Public IP Address: 
+Go to the AWS Management Console, find your EC2 instance, and copy its public IP address.
+#### Open a Web Browser: 
+Paste the public IP address into your browser’s address bar (e.g., http://your-ec2-instance-public-ip).
+#### Verify: 
+You should see the message "Hello from node js server!".
+If you see this message, your application is running correctly.
 
 ## Step 4: Install and Use PM2 for Process Management
 ### Install PM2:
